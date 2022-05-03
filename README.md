@@ -1,4 +1,4 @@
-# [ Axera Vision UI ]
+# [ AxeraVision UI ]
 This repository features a base UI using the ImGui Framework.
 
 ## Features
