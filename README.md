@@ -5,6 +5,7 @@ This repository features a base UI using the ImGui Framework.
 * Simple UI Design
 * Easy Code to Customize
 * Good Starting Base UI
+* Copy Pasta Friendly
 
 ## Preview
 <details>
