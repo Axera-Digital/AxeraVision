@@ -289,13 +289,13 @@ void Render::UI()
                 {
                     GlobalVars::iTab = 1;
                 }
-                // Display Aim Tab Button
+                // Display Misc Tab Button
                 ImGui::SetCursorPos(ImVec2(238, 15));
                 if (ImGui::Button("Misc Features", ImVec2(100, 30)))
                 {
                     GlobalVars::iTab = 2;
                 }
-                // Display Aim Tab Button
+                // Display Settings Tab Button
                 ImGui::SetCursorPos(ImVec2(350, 15));
                 if (ImGui::Button("Settings", ImVec2(100, 30)))
                 {
